@@ -1,26 +1,34 @@
 ---
-name: Changeme
+name: Shipping-Container-K8s
 description: |
-  To change this file, modify settings.yaml and templates/README.md, then run 
-  ```
-  git submodule update -init
-  make all
-  ```
 
-  **Do not edit README.md directly as it will be overwritten..**
+  3d printable parts & designs to embed multiple intel nuc computers into 1 plastic 1:20 scale shipping container
+
+  ## Printing
+
+  All parts except the FanHolder are printed in PETG (PLA will also work).
+  The FanHolder is printed in flexible TPU so it will mold to the shape of the shipping container and stay in place with a friction fit. 
+  
+
 license: 
-  type: undef # MIT, GPL, CC-Attribution, CC-Attribution-NoDerivs, CC-Attribution-ShareAlike, CC-Attribution-NonCommercial, CC-Attribution-NC-SA
+  type: CC-Attribution # MIT, GPL, CC-Attribution, CC-Attribution-NoDerivs, CC-Attribution-ShareAlike, CC-Attribution-NonCommercial, CC-Attribution-NC-SA
   owner: Spencer Owen
   year: 2020
 resources:
-  foo: https://example.com
-fusion_link: https://autodesk.example.com #comment out if no fusion link
+  Plastic Shipping Container (AliExpress): https://www.aliexpress.com/item/1005001604891498.html?spm=a2g0o.productlist.0.0.2d5163bcp5OUN7&algo_pvid=c77774b4-caca-4aa1-95c4-54176b63355e&algo_exp_id=c77774b4-caca-4aa1-95c4-54176b63355e-0&pdp_ext_f=%7B%22sku_id%22%3A%2212000016984381236%22%7D&pdp_pi=-1%3B43.91%3B-1%3B-1%400%3BUSD%3Bsearch-mainSearch
+  Plastic Shipping Container (Vicmodel): https://www.vicmodel.com/product-page/1-20-scale-shipping-container-scale-model
+  Cat 6 Keystone: https://www.amazon.com/gp/product/B09F9C8DB1/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&psc=1
+  5.5mm x 2.5mm DC power connector: https://www.amazon.com/gp/product/B08Z6WWGV7/ref=ppx_yo_dt_b_asin_title_o07_s00?ie=UTF8&psc=1
+  Right Angle Slim Cat6 Connectors: https://www.amazon.com/gp/product/B076PKMQLH/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1
+  92mm fan: https://www.amazon.com/gp/product/B00NMXE90E/ref=ppx_yo_dt_b_asin_title_o09_s00?ie=UTF8&psc=1
+  Edison Plugs: https://www.amazon.com/gp/product/B078PFFL46/ref=ppx_yo_dt_b_asin_title_o09_s00?ie=UTF8&psc=1
+fusion_link: https://a360.co/344KoWN
 links:
-  Thingiverse: https://www.thingiverse.com/thing:xxxx
-  Prusa: https://foo.com
-  GrabCad: https://foo.com
-  Hackster.io: https://hackster.io/foo
-  Hackaday: https://hackaday.io/foo
-  Reddit: https://www.reddit.com/r/foo
-  Github: https://github.com/foo
-  Blog: https://foo.com
+  # Thingiverse: https://www.thingiverse.com/thing:xxxx
+  # Prusa: https://foo.com
+  # GrabCad: https://foo.com
+  # Hackster.io: https://hackster.io/foo
+  # Hackaday: https://hackaday.io/foo
+  # Reddit: https://www.reddit.com/r/foo
+  # Github: https://github.com/foo
+  # Blog: https://foo.com
