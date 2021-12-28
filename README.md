@@ -6,7 +6,7 @@
 ## Printing
 
 All parts except the FanHolder are printed in PETG (PLA will also work).
-The FanHolder is printed in flexible TPU so it will mold 
+The FanHolder is printed in flexible TPU so it will mold to the shape of the shipping container and stay in place with a friction fit. 
 
 
 
@@ -15,6 +15,8 @@ The FanHolder is printed in flexible TPU so it will mold
 
 **Autodesk Fusion 360 file**: [https://a360.co/344KoWN](https://a360.co/344KoWN)
 
+
+- **Github**: [https://github.com/spuder/shipping-container-k8s](https://github.com/spuder/shipping-container-k8s)
 
 ## :triangular_ruler: CAD files
 

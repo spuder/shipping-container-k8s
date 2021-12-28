@@ -8,7 +8,6 @@ description: |
 
   All parts except the FanHolder are printed in PETG (PLA will also work).
   The FanHolder is printed in flexible TPU so it will mold to the shape of the shipping container and stay in place with a friction fit. 
-  
 
 license: 
   type: CC-Attribution # MIT, GPL, CC-Attribution, CC-Attribution-NoDerivs, CC-Attribution-ShareAlike, CC-Attribution-NonCommercial, CC-Attribution-NC-SA
@@ -30,5 +29,5 @@ links:
   # Hackster.io: https://hackster.io/foo
   # Hackaday: https://hackaday.io/foo
   # Reddit: https://www.reddit.com/r/foo
-  # Github: https://github.com/foo
+  Github: https://github.com/spuder/shipping-container-k8s
   # Blog: https://foo.com
