@@ -63,7 +63,6 @@ The FanHolder is printed in flexible TPU so it will mold to the shape of the shi
 ![](photos%2Fcropped)
 ![](photos%2FIMG_1129.jpeg)
 ![](photos%2FIMG_0866.jpeg)
-![](photos%2FIMG_1125.jpeg)
 
 ---
 
