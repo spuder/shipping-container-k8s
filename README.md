@@ -26,10 +26,10 @@ The FanHolder is printed in flexible TPU so it will mold to the shape of the shi
 
 | Filename | STL | GIF | 
 | --- | --- | --- | 
-| [CAD/Backplate.stl](./CAD%2FBackplate.stl) | ![](./CAD%2FBackplate.stl.png) | ![](./CAD%2FBackplate.stl.gif) | 
-| [CAD/Base.stl](./CAD%2FBase.stl) | ![](./CAD%2FBase.stl.png) | ![](./CAD%2FBase.stl.gif) | 
-| [CAD/Front Plate.stl](./CAD%2FFront%20Plate.stl) | ![](./CAD%2FFront%20Plate.stl.png) | ![](./CAD%2FFront%20Plate.stl.gif) | 
-| [CAD/FanHolder.stl](./CAD%2FFanHolder.stl) | ![](./CAD%2FFanHolder.stl.png) | ![](./CAD%2FFanHolder.stl.gif) | 
+| [CAD/Backplate.stl](./CAD%2FBackplate.stl) | ![](./CAD%2FBackplate.png) | ![](./CAD%2FBackplate.gif) | 
+| [CAD/Base.stl](./CAD%2FBase.stl) | ![](./CAD%2FBase.png) | ![](./CAD%2FBase.gif) | 
+| [CAD/Front Plate.stl](./CAD%2FFront%20Plate.stl) | ![](./CAD%2FFront%20Plate.png) | ![](./CAD%2FFront%20Plate.gif) | 
+| [CAD/FanHolder.stl](./CAD%2FFanHolder.stl) | ![](./CAD%2FFanHolder.png) | ![](./CAD%2FFanHolder.gif) | 
 
 ## :notebook: Resources
 - [Plastic Shipping Container (AliExpress)](https://www.aliexpress.com/item/1005001604891498.html?spm=a2g0o.productlist.0.0.2d5163bcp5OUN7&algo_pvid=c77774b4-caca-4aa1-95c4-54176b63355e&algo_exp_id=c77774b4-caca-4aa1-95c4-54176b63355e-0&pdp_ext_f=%7B%22sku_id%22%3A%2212000016984381236%22%7D&pdp_pi=-1%3B43.91%3B-1%3B-1%400%3BUSD%3Bsearch-mainSearch)
@@ -46,6 +46,7 @@ The FanHolder is printed in flexible TPU so it will mold to the shape of the shi
 ![](photos%2FScreen%20Shot%202021-12-28%20at%202.15.23%20PM.png)
 ![](photos%2FIMG_0868.jpeg)
 ![](photos%2FIMG_1127.jpeg)
+![](photos%2F1.jpeg)
 ![](photos%2FIMG_1116.jpeg)
 ![](photos%2FIMG_0766.jpeg)
 ![](photos%2FIMG_1120.jpeg)
@@ -57,11 +58,10 @@ The FanHolder is printed in flexible TPU so it will mold to the shape of the shi
 ![](photos%2FIMG_1123.jpeg)
 ![](photos%2FIMG_1115.jpeg)
 ![](photos%2FIMG_1124.jpeg)
-![](photos%2FIMG_0867.jpeg)
+![](photos%2F2.jpeg)
 ![](photos%2FIMG_0778%202.jpeg)
 ![](photos%2FIMG_1128.jpeg)
 ![](photos%2Fcropped)
-![](photos%2FIMG_1129.jpeg)
 ![](photos%2FIMG_0866.jpeg)
 
 ---
