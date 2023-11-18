@@ -8,6 +8,11 @@
 All parts except the FanHolder are printed in PETG (PLA will also work).
 The FanHolder is printed in flexible TPU so it will mold to the shape of the shipping container and stay in place with a friction fit. 
 
+## Shipping Container
+
+Note that there are 2 models of shipping containers. The older models have actual wood bottoms that can be removed. 
+The newer models are solid and are about 1mm smaller. 
+
 
 
 ## :globe_with_meridians: Links
@@ -30,6 +35,10 @@ The FanHolder is printed in flexible TPU so it will mold to the shape of the shi
 | [CAD/Base.stl](./CAD%2FBase.stl) | ![](./CAD%2FBase.png) | ![](./CAD%2FBase.gif) | 
 | [CAD/FanHolder.stl](./CAD%2FFanHolder.stl) | ![](./CAD%2FFanHolder.png) | ![](./CAD%2FFanHolder.gif) | 
 | [CAD/Front Plate.stl](./CAD%2FFront%20Plate.stl) | ![](./CAD%2FFront%20Plate.png) | ![](./CAD%2FFront%20Plate.gif) | 
+| [CAD/Peg.stl](./CAD%2FPeg.stl) | ![](./CAD%2FPeg.png) | ![](./CAD%2FPeg.gif) | 
+| [CAD/Rib.stl](./CAD%2FRib.stl) | ![](./CAD%2FRib.png) | ![](./CAD%2FRib.gif) | 
+| [CAD/SSD_Holder-Single.stl](./CAD%2FSSD_Holder-Single.stl) | ![](./CAD%2FSSD_Holder-Single.png) | ![](./CAD%2FSSD_Holder-Single.gif) | 
+| [CAD/SSD_Holder.stl](./CAD%2FSSD_Holder.stl) | ![](./CAD%2FSSD_Holder.png) | ![](./CAD%2FSSD_Holder.gif) | 
 
 ## :notebook: Resources
 - [Plastic Shipping Container (AliExpress)](https://www.aliexpress.com/item/1005001604891498.html?spm=a2g0o.productlist.0.0.2d5163bcp5OUN7&algo_pvid=c77774b4-caca-4aa1-95c4-54176b63355e&algo_exp_id=c77774b4-caca-4aa1-95c4-54176b63355e-0&pdp_ext_f=%7B%22sku_id%22%3A%2212000016984381236%22%7D&pdp_pi=-1%3B43.91%3B-1%3B-1%400%3BUSD%3Bsearch-mainSearch)
@@ -39,10 +48,16 @@ The FanHolder is printed in flexible TPU so it will mold to the shape of the shi
 - [Right Angle Slim Cat6 Connectors](https://www.amazon.com/gp/product/B076PKMQLH/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1)
 - [92mm fan](https://www.amazon.com/gp/product/B00NMXE90E/ref=ppx_yo_dt_b_asin_title_o09_s00?ie=UTF8&psc=1)
 - [Edison Plugs](https://www.amazon.com/gp/product/B078PFFL46/ref=ppx_yo_dt_b_asin_title_o09_s00?ie=UTF8&psc=1)
+- [SATA Cable](https://www.amazon.com/gp/product/B00ENMFVCI/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
+- [Zima Sata Power](https://www.amazon.com/dp/B081CRLN8B?psc=1&ref=ppx_yo2ov_dt_b_product_details)
+- [Zima Board](https://www.zimaboard.com/)
 
 ## :camera: Photos
 ![](photos%2F1.jpeg)
 ![](photos%2F2.jpeg)
+![](photos%2FIMG_0157.jpeg)
+![](photos%2FIMG_0160%202.jpeg)
+![](photos%2FIMG_0160.jpeg)
 ![](photos%2FIMG_0766.jpeg)
 ![](photos%2FIMG_0778%202.jpeg)
 ![](photos%2FIMG_0780%202.jpeg)

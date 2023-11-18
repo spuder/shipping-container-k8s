@@ -9,6 +9,11 @@ description: |
   All parts except the FanHolder are printed in PETG (PLA will also work).
   The FanHolder is printed in flexible TPU so it will mold to the shape of the shipping container and stay in place with a friction fit. 
 
+  ## Shipping Container
+
+  Note that there are 2 models of shipping containers. The older models have actual wood bottoms that can be removed. 
+  The newer models are solid and are about 1mm smaller. 
+
 license: 
   type: CC-Attribution # MIT, GPL, CC-Attribution, CC-Attribution-NoDerivs, CC-Attribution-ShareAlike, CC-Attribution-NonCommercial, CC-Attribution-NC-SA
   owner: Spencer Owen
@@ -21,6 +26,9 @@ resources:
   Right Angle Slim Cat6 Connectors: https://www.amazon.com/gp/product/B076PKMQLH/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1
   92mm fan: https://www.amazon.com/gp/product/B00NMXE90E/ref=ppx_yo_dt_b_asin_title_o09_s00?ie=UTF8&psc=1
   Edison Plugs: https://www.amazon.com/gp/product/B078PFFL46/ref=ppx_yo_dt_b_asin_title_o09_s00?ie=UTF8&psc=1
+  SATA Cable: https://www.amazon.com/gp/product/B00ENMFVCI/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1
+  Zima Sata Power: https://www.amazon.com/dp/B081CRLN8B?psc=1&ref=ppx_yo2ov_dt_b_product_details
+  Zima Board: https://www.zimaboard.com/
 fusion_link: https://a360.co/344KoWN
 links:
   # Thingiverse: https://www.thingiverse.com/thing:xxxx
